@@ -1,0 +1,15 @@
+{
+  "name": "x-tech_landing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build:dev": "npx tailwindcss -i ./src/input.css -o ./public/output.css --watch"
+  },
+  "keywords": [],
+  "author": "22120183-NguyenDangMinhLan",
+  "license": "ISC",
+  "description": "22120183-NguyenDangMinhLan",
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
